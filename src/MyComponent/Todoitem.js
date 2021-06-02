@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Todoitem = () => {
     return (
-        <div>
+        <div className="">
             todo works
         </div>
     )
