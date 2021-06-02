@@ -3,7 +3,7 @@ import React from 'react'
 export const Todoitem = () => {
     return (
         <div className="">
-            todo    the works 
+            todo items to work 
         </div>
     )
 }
